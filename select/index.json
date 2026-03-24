@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "怪獣の花唄",
   "base_artist": "Vaundy",
-  "createdAt": "2026-03-18T20:42:50.199085Z",
+  "createdAt": "2026-03-24T07:25:15.330125Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,7 +131,7 @@
       "artist": "Vaundy",
       "has_synced": true,
       "path": "select/localdb_01_怪獣の花唄_Vaundy.lrc",
-      "repo_name": "lYLa6zyjhSI"
+      "repo_name": "UM9XNpgrqVk"
     },
     {
       "id": "localdb_2",
@@ -140,7 +140,7 @@
       "artist": "Vaundy",
       "has_synced": true,
       "path": "select/localdb_02_怪獣の花唄_Vaundy.lrc",
-      "repo_name": "UM9XNpgrqVk"
+      "repo_name": "lYLa6zyjhSI"
     },
     {
       "id": "localdb_3",
